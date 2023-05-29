@@ -1,0 +1,109 @@
+@font-face {
+	font-family:  Jura;
+	src: url('../Lura-Jura-VariableFont_wght.ttf');
+}
+body *{
+	margin: 0;
+	padding: 0;
+	font-family: 'Jura', sans-serif;
+} 
+.container{
+	width: 1240px;
+	height: 100%;
+}
+.header{
+	width: 100%;
+	height: 550px;
+	background: rgb(212, 249, 242);
+	padding-top: 65px;
+	padding-left: 36px;
+	padding-bottom: 31px;
+	padding-right: 52px;
+}
+.trre{
+	width: 56px;
+	height: 56px;
+}
+.title_header{
+	font-size:100px;
+	line-height: 118px;
+	margin-top: 95px;
+}
+.m_title_header{
+	font-size:100px;
+	line-height: 118px;
+}
+.img_2{
+	width: 734px;
+	height: 714px;
+	margin-top: -530px;
+	margin-right: -50px;
+	float:right;
+}
+.buttom_header{
+	width: 220px;
+	background: rgba(255, 28, 82, 1);
+	color:white;
+	padding-left: 55px;
+	padding-top: 16px;
+	padding-right: 67px;
+	padding-bottom: 18px;
+}
+.buttom_header:hover{
+	background: white;
+	color: rgba(0, 106, 167, 1);
+}
+.b_text{
+	font-size:16px;
+}
+/*Блок 2*/
+.block2{
+	width: 1255px;
+	height: 400px;
+	background: rgba(255, 28, 82, 1);
+	padding-top: 38px;
+	padding-bottom: 45px;
+	padding-right: 73px;
+	text-align: center;
+	color:white;
+}
+.cont_to_card_bl2{
+	margin-left: -95px;
+	padding-left: 92px;
+}
+.card_bl2{
+	width: 250px;
+	height: 155px;
+	padding-top: 19px;
+	padding-left: 19px;
+	padding-bottom: 75px;
+	padding-right: 11px;
+	margin-right: 15px;
+	text-align:left;
+	display: inline-block;
+	vertical-align: top;
+}
+.one ,.thrre{
+	background: rgba(37, 138, 134, 1);
+}
+.two , .four{
+	background: rgba(255, 255, 255, 1);
+	color:black;
+}
+.thrre{
+	margin-bottom: 500px;
+}
+
+
+.tite_cbl2{
+	margin-top: 7px;
+	font-size:16px;
+}
+.text_bl2{
+	margin-top: 15px;
+	font-size:16px;
+}
+.title_block2{
+	margin-bottom: 69px;
+	margin-top: 15px;
+}
